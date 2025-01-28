@@ -3,3 +3,14 @@ publishDir: "docs"
 languageCode: en-us
 title: "Jaye's Site"
 theme: PaperMod
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Welcome to Jaye's Site
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: https://www.linkedin.com/in/sijie-he-68486b2a9/
+    - name: "github"
+      url: https://github.com/jellyjaye
+
