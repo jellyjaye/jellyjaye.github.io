@@ -1,4 +1,5 @@
 baseURL: https://jellyjaye.github.io/
+publishDir: "docs"
 languageCode: en-us
 title: "Jaye's Site"
 theme: PaperMod
